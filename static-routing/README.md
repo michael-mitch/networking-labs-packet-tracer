@@ -1,8 +1,16 @@
 # Static Routing Lab
 
-Configured static routes across multiple routers to enable communication between separate networks.
+Configured static routes to allow communication between multiple networks.
+
+## Overview
+This lab focused on manually defining routes between routers to enable cross-network communication.
 
 ## Skills Used
-- Router configuration
 - Static routing
+- Multi-router configuration
 - Network troubleshooting
+
+## Key Tasks
+- Configured static routes on routers
+- Established communication between separate networks
+- Verified end-to-end connectivity
